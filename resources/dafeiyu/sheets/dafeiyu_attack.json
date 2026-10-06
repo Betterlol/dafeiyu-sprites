@@ -1,0 +1,141 @@
+{
+  "frames": {
+    "attack_00.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 640
+      },
+      "duration": 71
+    },
+    "attack_01.png": {
+      "frame": {
+        "x": 640,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 640
+      },
+      "duration": 71
+    },
+    "attack_02.png": {
+      "frame": {
+        "x": 1280,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 640
+      },
+      "duration": 71
+    },
+    "attack_03.png": {
+      "frame": {
+        "x": 1920,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 640
+      },
+      "duration": 71
+    },
+    "attack_04.png": {
+      "frame": {
+        "x": 0,
+        "y": 640,
+        "w": 640,
+        "h": 640
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 640
+      },
+      "duration": 71
+    },
+    "attack_05.png": {
+      "frame": {
+        "x": 640,
+        "y": 640,
+        "w": 640,
+        "h": 640
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 640
+      },
+      "duration": 71
+    }
+  },
+  "meta": {
+    "app": "deepseek-workflow",
+    "version": "1.0",
+    "image": "dafeiyu_attack.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2560,
+      "h": 1280
+    },
+    "scale": "1"
+  }
+}
