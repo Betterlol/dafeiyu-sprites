@@ -1,0 +1,31 @@
+{
+  "schema": "sprite-preview-v1",
+  "action": "run",
+  "loop": 0,
+  "steps": [
+    {
+      "frame": "run_00.png",
+      "duration_ms": 83
+    },
+    {
+      "frame": "run_01.png",
+      "duration_ms": 83
+    },
+    {
+      "frame": "run_02.png",
+      "duration_ms": 83
+    },
+    {
+      "frame": "run_03.png",
+      "duration_ms": 83
+    },
+    {
+      "frame": "run_04.png",
+      "duration_ms": 83
+    },
+    {
+      "frame": "run_05.png",
+      "duration_ms": 83
+    }
+  ]
+}

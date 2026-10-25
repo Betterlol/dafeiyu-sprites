@@ -1,0 +1,31 @@
+{
+  "schema": "sprite-preview-v1",
+  "action": "die",
+  "loop": 1,
+  "steps": [
+    {
+      "frame": "die_00.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "die_01.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "die_02.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "die_03.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "die_04.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "die_05.png",
+      "duration_ms": 100
+    }
+  ]
+}

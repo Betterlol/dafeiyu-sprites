@@ -1,0 +1,31 @@
+{
+  "schema": "sprite-preview-v1",
+  "action": "dash",
+  "loop": 1,
+  "steps": [
+    {
+      "frame": "dash_00.png",
+      "duration_ms": 62
+    },
+    {
+      "frame": "dash_01.png",
+      "duration_ms": 62
+    },
+    {
+      "frame": "dash_02.png",
+      "duration_ms": 62
+    },
+    {
+      "frame": "dash_03.png",
+      "duration_ms": 62
+    },
+    {
+      "frame": "dash_04.png",
+      "duration_ms": 62
+    },
+    {
+      "frame": "dash_05.png",
+      "duration_ms": 62
+    }
+  ]
+}

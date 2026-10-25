@@ -1,0 +1,27 @@
+{
+  "schema": "sprite-preview-v1",
+  "action": "hurt",
+  "loop": 1,
+  "steps": [
+    {
+      "frame": "hurt_00.png",
+      "duration_ms": 83
+    },
+    {
+      "frame": "hurt_01.png",
+      "duration_ms": 83
+    },
+    {
+      "frame": "hurt_02.png",
+      "duration_ms": 83
+    },
+    {
+      "frame": "hurt_03.png",
+      "duration_ms": 83
+    },
+    {
+      "frame": "hurt_04.png",
+      "duration_ms": 83
+    }
+  ]
+}

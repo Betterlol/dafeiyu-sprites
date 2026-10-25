@@ -1,0 +1,124 @@
+{
+  "schema": "dafeiyu-sprites-v2",
+  "action": "hurt",
+  "source": "AI-generated from references/dafeiyu-game-identity.png; extracted by alpha-connected silhouette; all project paths are relative to pipeline.json",
+  "sheet": "dafeiyu_hurt.png",
+  "frame_size": {
+    "w": 640,
+    "h": 640
+  },
+  "anchor": {
+    "x": 0.5,
+    "y": 0.89,
+    "pixels": [
+      320,
+      570
+    ]
+  },
+  "fps": 12,
+  "loop": false,
+  "frames": [
+    {
+      "filename": "sprites/hurt/hurt_00.png",
+      "duration_ms": 83
+    },
+    {
+      "filename": "sprites/hurt/hurt_01.png",
+      "duration_ms": 83
+    },
+    {
+      "filename": "sprites/hurt/hurt_02.png",
+      "duration_ms": 83
+    },
+    {
+      "filename": "sprites/hurt/hurt_03.png",
+      "duration_ms": 83
+    },
+    {
+      "filename": "sprites/hurt/hurt_04.png",
+      "duration_ms": 83
+    }
+  ],
+  "atlas_frames": {
+    "hurt_00.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "hurt_01.png": {
+      "frame": {
+        "x": 640,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "hurt_02.png": {
+      "frame": {
+        "x": 1280,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "hurt_03.png": {
+      "frame": {
+        "x": 1920,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "hurt_04.png": {
+      "frame": {
+        "x": 0,
+        "y": 640,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    }
+  }
+}

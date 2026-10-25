@@ -1,0 +1,144 @@
+{
+  "schema": "dafeiyu-sprites-v2",
+  "action": "die",
+  "source": "AI-generated from references/dafeiyu-game-identity.png; extracted by alpha-connected silhouette; all project paths are relative to pipeline.json",
+  "sheet": "dafeiyu_die.png",
+  "frame_size": {
+    "w": 640,
+    "h": 640
+  },
+  "anchor": {
+    "x": 0.5,
+    "y": 0.89,
+    "pixels": [
+      320,
+      570
+    ]
+  },
+  "fps": 10,
+  "loop": false,
+  "frames": [
+    {
+      "filename": "sprites/die/die_00.png",
+      "duration_ms": 100
+    },
+    {
+      "filename": "sprites/die/die_01.png",
+      "duration_ms": 100
+    },
+    {
+      "filename": "sprites/die/die_02.png",
+      "duration_ms": 100
+    },
+    {
+      "filename": "sprites/die/die_03.png",
+      "duration_ms": 100
+    },
+    {
+      "filename": "sprites/die/die_04.png",
+      "duration_ms": 100
+    },
+    {
+      "filename": "sprites/die/die_05.png",
+      "duration_ms": 100
+    }
+  ],
+  "atlas_frames": {
+    "die_00.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "die_01.png": {
+      "frame": {
+        "x": 640,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "die_02.png": {
+      "frame": {
+        "x": 1280,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "die_03.png": {
+      "frame": {
+        "x": 1920,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "die_04.png": {
+      "frame": {
+        "x": 0,
+        "y": 640,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "die_05.png": {
+      "frame": {
+        "x": 640,
+        "y": 640,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    }
+  }
+}

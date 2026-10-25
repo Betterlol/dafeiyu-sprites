@@ -1,0 +1,31 @@
+{
+  "schema": "sprite-preview-v1",
+  "action": "jump",
+  "loop": 1,
+  "steps": [
+    {
+      "frame": "jump_00.png",
+      "duration_ms": 83
+    },
+    {
+      "frame": "jump_01.png",
+      "duration_ms": 83
+    },
+    {
+      "frame": "jump_02.png",
+      "duration_ms": 83
+    },
+    {
+      "frame": "jump_03.png",
+      "duration_ms": 83
+    },
+    {
+      "frame": "jump_04.png",
+      "duration_ms": 83
+    },
+    {
+      "frame": "jump_05.png",
+      "duration_ms": 83
+    }
+  ]
+}

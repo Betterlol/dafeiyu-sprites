@@ -1,0 +1,31 @@
+{
+  "schema": "sprite-preview-v1",
+  "action": "die_reveal",
+  "loop": 1,
+  "steps": [
+    {
+      "frame": "die_reveal_00.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "die_reveal_01.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "die_reveal_02.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "die_reveal_03.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "die_reveal_04.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "die_reveal_05.png",
+      "duration_ms": 100
+    }
+  ]
+}

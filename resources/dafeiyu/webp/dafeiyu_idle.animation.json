@@ -1,0 +1,39 @@
+{
+  "schema": "sprite-preview-v1",
+  "action": "idle",
+  "loop": 0,
+  "steps": [
+    {
+      "frame": "idle_00.png",
+      "duration_ms": 125
+    },
+    {
+      "frame": "idle_01.png",
+      "duration_ms": 125
+    },
+    {
+      "frame": "idle_02.png",
+      "duration_ms": 125
+    },
+    {
+      "frame": "idle_03.png",
+      "duration_ms": 125
+    },
+    {
+      "frame": "idle_04.png",
+      "duration_ms": 125
+    },
+    {
+      "frame": "idle_05.png",
+      "duration_ms": 125
+    },
+    {
+      "frame": "idle_06.png",
+      "duration_ms": 125
+    },
+    {
+      "frame": "idle_07.png",
+      "duration_ms": 125
+    }
+  ]
+}

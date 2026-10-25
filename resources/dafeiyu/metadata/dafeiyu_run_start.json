@@ -1,0 +1,64 @@
+{
+  "schema": "dafeiyu-sprites-v2",
+  "action": "run_start",
+  "source": "AI-generated from references/dafeiyu-game-identity.png; extracted by alpha-connected silhouette; all project paths are relative to pipeline.json",
+  "sheet": "dafeiyu_run_start.png",
+  "frame_size": {
+    "w": 640,
+    "h": 640
+  },
+  "anchor": {
+    "x": 0.5,
+    "y": 0.89,
+    "pixels": [
+      320,
+      570
+    ]
+  },
+  "fps": 12,
+  "loop": false,
+  "frames": [
+    {
+      "filename": "sprites/run_start/run_start_00.png",
+      "duration_ms": 83
+    },
+    {
+      "filename": "sprites/run_start/run_start_01.png",
+      "duration_ms": 83
+    }
+  ],
+  "atlas_frames": {
+    "run_start_00.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "run_start_01.png": {
+      "frame": {
+        "x": 640,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    }
+  }
+}

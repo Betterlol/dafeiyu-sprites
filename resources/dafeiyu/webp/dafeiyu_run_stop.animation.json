@@ -1,0 +1,15 @@
+{
+  "schema": "sprite-preview-v1",
+  "action": "run_stop",
+  "loop": 1,
+  "steps": [
+    {
+      "frame": "run_stop_00.png",
+      "duration_ms": 83
+    },
+    {
+      "frame": "run_stop_01.png",
+      "duration_ms": 83
+    }
+  ]
+}

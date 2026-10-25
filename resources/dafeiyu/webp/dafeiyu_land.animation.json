@@ -1,0 +1,31 @@
+{
+  "schema": "sprite-preview-v1",
+  "action": "land",
+  "loop": 1,
+  "steps": [
+    {
+      "frame": "land_00.png",
+      "duration_ms": 71
+    },
+    {
+      "frame": "land_01.png",
+      "duration_ms": 71
+    },
+    {
+      "frame": "land_02.png",
+      "duration_ms": 71
+    },
+    {
+      "frame": "land_03.png",
+      "duration_ms": 71
+    },
+    {
+      "frame": "land_04.png",
+      "duration_ms": 71
+    },
+    {
+      "frame": "land_05.png",
+      "duration_ms": 71
+    }
+  ]
+}

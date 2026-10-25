@@ -1,0 +1,129 @@
+{
+  "character": "dafeiyu",
+  "version": 2,
+  "frame_size": {
+    "w": 640,
+    "h": 640
+  },
+  "anchor": {
+    "x": 0.5,
+    "y": 0.89,
+    "pixels": [
+      320,
+      570
+    ]
+  },
+  "facing": "right",
+  "actions": [
+    {
+      "name": "idle",
+      "count": 8,
+      "fps": 8,
+      "loop": true,
+      "sheet": "spritesheets/dafeiyu_idle.png",
+      "preview": "webp/dafeiyu_idle.webp"
+    },
+    {
+      "name": "run",
+      "count": 6,
+      "fps": 12,
+      "loop": true,
+      "sheet": "spritesheets/dafeiyu_run.png",
+      "preview": "webp/dafeiyu_run.webp"
+    },
+    {
+      "name": "jump",
+      "count": 6,
+      "fps": 12,
+      "loop": false,
+      "sheet": "spritesheets/dafeiyu_jump.png",
+      "preview": "webp/dafeiyu_jump.webp"
+    },
+    {
+      "name": "land",
+      "count": 6,
+      "fps": 14,
+      "loop": false,
+      "sheet": "spritesheets/dafeiyu_land.png",
+      "preview": "webp/dafeiyu_land.webp"
+    },
+    {
+      "name": "dash",
+      "count": 6,
+      "fps": 16,
+      "loop": false,
+      "sheet": "spritesheets/dafeiyu_dash.png",
+      "preview": "webp/dafeiyu_dash.webp"
+    },
+    {
+      "name": "attack",
+      "count": 6,
+      "fps": 14,
+      "loop": false,
+      "sheet": "spritesheets/dafeiyu_attack.png",
+      "preview": "webp/dafeiyu_attack.webp"
+    },
+    {
+      "name": "hurt",
+      "count": 5,
+      "fps": 12,
+      "loop": false,
+      "sheet": "spritesheets/dafeiyu_hurt.png",
+      "preview": "webp/dafeiyu_hurt.webp"
+    },
+    {
+      "name": "die",
+      "count": 6,
+      "fps": 10,
+      "loop": false,
+      "sheet": "spritesheets/dafeiyu_die.png",
+      "preview": "webp/dafeiyu_die.webp"
+    },
+    {
+      "name": "die_reveal",
+      "count": 6,
+      "fps": 10,
+      "loop": false,
+      "sheet": "spritesheets/dafeiyu_die_reveal.png",
+      "preview": "webp/dafeiyu_die_reveal.webp"
+    },
+    {
+      "name": "eat_rice",
+      "count": 46,
+      "fps": 12,
+      "loop": false,
+      "sheet": "spritesheets/dafeiyu_eat_rice.png",
+      "preview": "webp/dafeiyu_eat_rice.webp"
+    },
+    {
+      "name": "attack_special",
+      "count": 8,
+      "fps": 12,
+      "loop": false,
+      "sheet": "spritesheets/dafeiyu_attack_special.png",
+      "preview": "webp/dafeiyu_attack_special.webp"
+    },
+    {
+      "name": "run_start",
+      "count": 2,
+      "fps": 12,
+      "loop": false,
+      "sheet": "spritesheets/dafeiyu_run_start.png",
+      "preview": "webp/dafeiyu_run_start.webp"
+    },
+    {
+      "name": "run_stop",
+      "count": 2,
+      "fps": 12,
+      "loop": false,
+      "sheet": "spritesheets/dafeiyu_run_stop.png",
+      "preview": "webp/dafeiyu_run_stop.webp"
+    }
+  ],
+  "notes": [
+    "All output PNGs use transparent alpha.",
+    "Playback order follows zero-padded filenames.",
+    "Frames are reconstructed from alpha-connected character silhouettes, so generated sheet overflow is retained instead of cropped at nominal grid lines.",
+    "Use the same anchor for each frame; do not use Template/*.json for this character."
+  ]
+}
