@@ -16,7 +16,7 @@
     ]
   },
   "fps": 12,
-  "loop": false,
+  "loop": true,
   "frames": [
     {
       "filename": "sprites/hurt/hurt_00.png",

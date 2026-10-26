@@ -16,7 +16,7 @@
     ]
   },
   "fps": 12,
-  "loop": false,
+  "loop": true,
   "frames": [
     {
       "filename": "sprites/attack_special/attack_special_00.png",

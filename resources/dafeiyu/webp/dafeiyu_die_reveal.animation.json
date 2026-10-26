@@ -1,7 +1,7 @@
 {
   "schema": "sprite-preview-v1",
   "action": "die_reveal",
-  "loop": 1,
+  "loop": 0,
   "steps": [
     {
       "frame": "die_reveal_00.png",

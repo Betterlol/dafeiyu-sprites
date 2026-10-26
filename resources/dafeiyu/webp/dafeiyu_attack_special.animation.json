@@ -1,7 +1,7 @@
 {
   "schema": "sprite-preview-v1",
   "action": "attack_special",
-  "loop": 1,
+  "loop": 0,
   "steps": [
     {
       "frame": "attack_special_00.png",

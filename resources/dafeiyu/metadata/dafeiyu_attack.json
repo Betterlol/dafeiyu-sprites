@@ -16,7 +16,7 @@
     ]
   },
   "fps": 14,
-  "loop": false,
+  "loop": true,
   "frames": [
     {
       "filename": "sprites/attack/attack_00.png",

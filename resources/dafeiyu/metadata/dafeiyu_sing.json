@@ -1,0 +1,1364 @@
+{
+  "schema": "dafeiyu-sprites-v2",
+  "action": "sing",
+  "source": "AI-generated from references/dafeiyu-game-identity.png; extracted by alpha-connected silhouette; all project paths are relative to pipeline.json",
+  "sheet": "dafeiyu_sing.png",
+  "frame_size": {
+    "w": 640,
+    "h": 640
+  },
+  "anchor": {
+    "x": 0.5,
+    "y": 0.89,
+    "pixels": [
+      320,
+      570
+    ]
+  },
+  "fps": 8,
+  "loop": true,
+  "frames": [
+    {
+      "filename": "sprites/sing/sing_00.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_01.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_02.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_03.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_04.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_05.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_06.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_07.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_08.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_09.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_10.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_11.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_12.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_13.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_14.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_15.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_16.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_17.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_18.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_19.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_20.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_21.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_22.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_23.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_24.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_25.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_26.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_27.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_28.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_29.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_30.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_31.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_32.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_33.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_34.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_35.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_36.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_37.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_38.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_39.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_40.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_41.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_42.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_43.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_44.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_45.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_46.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_47.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_48.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_49.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_50.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_51.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_52.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_53.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_54.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_55.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_56.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_57.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_58.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_59.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_60.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_61.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_62.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_63.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_64.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_65.png",
+      "duration_ms": 125
+    },
+    {
+      "filename": "sprites/sing/sing_66.png",
+      "duration_ms": 125
+    }
+  ],
+  "atlas_frames": {
+    "sing_00.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_01.png": {
+      "frame": {
+        "x": 640,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_02.png": {
+      "frame": {
+        "x": 1280,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_03.png": {
+      "frame": {
+        "x": 1920,
+        "y": 0,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_04.png": {
+      "frame": {
+        "x": 0,
+        "y": 640,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_05.png": {
+      "frame": {
+        "x": 640,
+        "y": 640,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_06.png": {
+      "frame": {
+        "x": 1280,
+        "y": 640,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_07.png": {
+      "frame": {
+        "x": 1920,
+        "y": 640,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_08.png": {
+      "frame": {
+        "x": 0,
+        "y": 1280,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_09.png": {
+      "frame": {
+        "x": 640,
+        "y": 1280,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_10.png": {
+      "frame": {
+        "x": 1280,
+        "y": 1280,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_11.png": {
+      "frame": {
+        "x": 1920,
+        "y": 1280,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_12.png": {
+      "frame": {
+        "x": 0,
+        "y": 1920,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_13.png": {
+      "frame": {
+        "x": 640,
+        "y": 1920,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_14.png": {
+      "frame": {
+        "x": 1280,
+        "y": 1920,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_15.png": {
+      "frame": {
+        "x": 1920,
+        "y": 1920,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_16.png": {
+      "frame": {
+        "x": 0,
+        "y": 2560,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_17.png": {
+      "frame": {
+        "x": 640,
+        "y": 2560,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_18.png": {
+      "frame": {
+        "x": 1280,
+        "y": 2560,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_19.png": {
+      "frame": {
+        "x": 1920,
+        "y": 2560,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_20.png": {
+      "frame": {
+        "x": 0,
+        "y": 3200,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_21.png": {
+      "frame": {
+        "x": 640,
+        "y": 3200,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_22.png": {
+      "frame": {
+        "x": 1280,
+        "y": 3200,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_23.png": {
+      "frame": {
+        "x": 1920,
+        "y": 3200,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_24.png": {
+      "frame": {
+        "x": 0,
+        "y": 3840,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_25.png": {
+      "frame": {
+        "x": 640,
+        "y": 3840,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_26.png": {
+      "frame": {
+        "x": 1280,
+        "y": 3840,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_27.png": {
+      "frame": {
+        "x": 1920,
+        "y": 3840,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_28.png": {
+      "frame": {
+        "x": 0,
+        "y": 4480,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_29.png": {
+      "frame": {
+        "x": 640,
+        "y": 4480,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_30.png": {
+      "frame": {
+        "x": 1280,
+        "y": 4480,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_31.png": {
+      "frame": {
+        "x": 1920,
+        "y": 4480,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_32.png": {
+      "frame": {
+        "x": 0,
+        "y": 5120,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_33.png": {
+      "frame": {
+        "x": 640,
+        "y": 5120,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_34.png": {
+      "frame": {
+        "x": 1280,
+        "y": 5120,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_35.png": {
+      "frame": {
+        "x": 1920,
+        "y": 5120,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_36.png": {
+      "frame": {
+        "x": 0,
+        "y": 5760,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_37.png": {
+      "frame": {
+        "x": 640,
+        "y": 5760,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_38.png": {
+      "frame": {
+        "x": 1280,
+        "y": 5760,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_39.png": {
+      "frame": {
+        "x": 1920,
+        "y": 5760,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_40.png": {
+      "frame": {
+        "x": 0,
+        "y": 6400,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_41.png": {
+      "frame": {
+        "x": 640,
+        "y": 6400,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_42.png": {
+      "frame": {
+        "x": 1280,
+        "y": 6400,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_43.png": {
+      "frame": {
+        "x": 1920,
+        "y": 6400,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_44.png": {
+      "frame": {
+        "x": 0,
+        "y": 7040,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_45.png": {
+      "frame": {
+        "x": 640,
+        "y": 7040,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_46.png": {
+      "frame": {
+        "x": 1280,
+        "y": 7040,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_47.png": {
+      "frame": {
+        "x": 1920,
+        "y": 7040,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_48.png": {
+      "frame": {
+        "x": 0,
+        "y": 7680,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_49.png": {
+      "frame": {
+        "x": 640,
+        "y": 7680,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_50.png": {
+      "frame": {
+        "x": 1280,
+        "y": 7680,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_51.png": {
+      "frame": {
+        "x": 1920,
+        "y": 7680,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_52.png": {
+      "frame": {
+        "x": 0,
+        "y": 8320,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_53.png": {
+      "frame": {
+        "x": 640,
+        "y": 8320,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_54.png": {
+      "frame": {
+        "x": 1280,
+        "y": 8320,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_55.png": {
+      "frame": {
+        "x": 1920,
+        "y": 8320,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_56.png": {
+      "frame": {
+        "x": 0,
+        "y": 8960,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_57.png": {
+      "frame": {
+        "x": 640,
+        "y": 8960,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_58.png": {
+      "frame": {
+        "x": 1280,
+        "y": 8960,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_59.png": {
+      "frame": {
+        "x": 1920,
+        "y": 8960,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_60.png": {
+      "frame": {
+        "x": 0,
+        "y": 9600,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_61.png": {
+      "frame": {
+        "x": 640,
+        "y": 9600,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_62.png": {
+      "frame": {
+        "x": 1280,
+        "y": 9600,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_63.png": {
+      "frame": {
+        "x": 1920,
+        "y": 9600,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_64.png": {
+      "frame": {
+        "x": 0,
+        "y": 10240,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_65.png": {
+      "frame": {
+        "x": 640,
+        "y": 10240,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    },
+    "sing_66.png": {
+      "frame": {
+        "x": 1280,
+        "y": 10240,
+        "w": 640,
+        "h": 640
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89,
+        "pixels": [
+          320,
+          570
+        ]
+      }
+    }
+  }
+}

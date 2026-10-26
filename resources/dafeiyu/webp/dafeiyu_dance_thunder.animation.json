@@ -1,0 +1,323 @@
+{
+  "schema": "sprite-preview-v1",
+  "action": "dance_thunder",
+  "loop": 0,
+  "steps": [
+    {
+      "frame": "dance_thunder_00.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_01.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_02.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_03.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_04.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_05.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_06.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_07.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_08.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_09.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_10.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_11.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_12.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_13.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_14.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_15.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_16.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_17.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_18.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_19.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_20.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_21.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_22.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_23.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_24.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_25.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_26.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_27.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_28.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_29.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_30.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_31.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_32.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_33.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_34.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_35.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_36.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_37.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_38.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_39.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_40.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_41.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_42.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_43.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_44.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_45.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_46.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_47.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_48.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_49.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_50.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_51.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_52.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_53.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_54.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_55.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_56.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_57.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_58.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_59.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_60.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_61.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_62.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_63.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_64.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_65.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_66.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_67.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_68.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_69.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_70.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_71.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_72.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_73.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_74.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_75.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_76.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_77.png",
+      "duration_ms": 100
+    },
+    {
+      "frame": "dance_thunder_78.png",
+      "duration_ms": 100
+    }
+  ]
+}

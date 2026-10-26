@@ -1,7 +1,7 @@
 {
   "schema": "sprite-preview-v1",
   "action": "hurt",
-  "loop": 1,
+  "loop": 0,
   "steps": [
     {
       "frame": "hurt_00.png",

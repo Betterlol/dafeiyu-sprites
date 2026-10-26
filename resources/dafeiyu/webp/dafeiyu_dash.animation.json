@@ -1,7 +1,7 @@
 {
   "schema": "sprite-preview-v1",
   "action": "dash",
-  "loop": 1,
+  "loop": 0,
   "steps": [
     {
       "frame": "dash_00.png",

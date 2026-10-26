@@ -30,10 +30,6 @@
     {
       "frame": "idle_06.png",
       "duration_ms": 125
-    },
-    {
-      "frame": "idle_07.png",
-      "duration_ms": 125
     }
   ]
 }

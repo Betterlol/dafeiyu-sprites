@@ -45,10 +45,6 @@
     {
       "filename": "sprites/idle/idle_06.png",
       "duration_ms": 125
-    },
-    {
-      "filename": "sprites/idle/idle_07.png",
-      "duration_ms": 125
     }
   ],
   "atlas_frames": {
@@ -151,22 +147,6 @@
     "idle_06.png": {
       "frame": {
         "x": 1280,
-        "y": 640,
-        "w": 640,
-        "h": 640
-      },
-      "anchor": {
-        "x": 0.5,
-        "y": 0.89,
-        "pixels": [
-          320,
-          570
-        ]
-      }
-    },
-    "idle_07.png": {
-      "frame": {
-        "x": 1920,
         "y": 640,
         "w": 640,
         "h": 640

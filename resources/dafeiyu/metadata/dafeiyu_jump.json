@@ -16,7 +16,7 @@
     ]
   },
   "fps": 12,
-  "loop": false,
+  "loop": true,
   "frames": [
     {
       "filename": "sprites/jump/jump_00.png",

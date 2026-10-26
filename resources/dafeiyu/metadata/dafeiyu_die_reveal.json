@@ -16,7 +16,7 @@
     ]
   },
   "fps": 10,
-  "loop": false,
+  "loop": true,
   "frames": [
     {
       "filename": "sprites/die_reveal/die_reveal_00.png",

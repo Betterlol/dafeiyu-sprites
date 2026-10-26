@@ -16,7 +16,7 @@
     ]
   },
   "fps": 16,
-  "loop": false,
+  "loop": true,
   "frames": [
     {
       "filename": "sprites/dash/dash_00.png",

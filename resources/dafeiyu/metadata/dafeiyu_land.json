@@ -16,7 +16,7 @@
     ]
   },
   "fps": 14,
-  "loop": false,
+  "loop": true,
   "frames": [
     {
       "filename": "sprites/land/land_00.png",

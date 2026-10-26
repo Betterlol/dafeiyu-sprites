@@ -17,7 +17,7 @@
   "actions": [
     {
       "name": "idle",
-      "count": 8,
+      "count": 7,
       "fps": 8,
       "loop": true,
       "sheet": "spritesheets/dafeiyu_idle.png",
@@ -35,7 +35,7 @@
       "name": "jump",
       "count": 6,
       "fps": 12,
-      "loop": false,
+      "loop": true,
       "sheet": "spritesheets/dafeiyu_jump.png",
       "preview": "webp/dafeiyu_jump.webp"
     },
@@ -43,7 +43,7 @@
       "name": "land",
       "count": 6,
       "fps": 14,
-      "loop": false,
+      "loop": true,
       "sheet": "spritesheets/dafeiyu_land.png",
       "preview": "webp/dafeiyu_land.webp"
     },
@@ -51,7 +51,7 @@
       "name": "dash",
       "count": 6,
       "fps": 16,
-      "loop": false,
+      "loop": true,
       "sheet": "spritesheets/dafeiyu_dash.png",
       "preview": "webp/dafeiyu_dash.webp"
     },
@@ -59,7 +59,7 @@
       "name": "attack",
       "count": 6,
       "fps": 14,
-      "loop": false,
+      "loop": true,
       "sheet": "spritesheets/dafeiyu_attack.png",
       "preview": "webp/dafeiyu_attack.webp"
     },
@@ -67,7 +67,7 @@
       "name": "hurt",
       "count": 5,
       "fps": 12,
-      "loop": false,
+      "loop": true,
       "sheet": "spritesheets/dafeiyu_hurt.png",
       "preview": "webp/dafeiyu_hurt.webp"
     },
@@ -75,7 +75,7 @@
       "name": "die",
       "count": 6,
       "fps": 10,
-      "loop": false,
+      "loop": true,
       "sheet": "spritesheets/dafeiyu_die.png",
       "preview": "webp/dafeiyu_die.webp"
     },
@@ -83,41 +83,33 @@
       "name": "die_reveal",
       "count": 6,
       "fps": 10,
-      "loop": false,
+      "loop": true,
       "sheet": "spritesheets/dafeiyu_die_reveal.png",
       "preview": "webp/dafeiyu_die_reveal.webp"
-    },
-    {
-      "name": "eat_rice",
-      "count": 46,
-      "fps": 12,
-      "loop": false,
-      "sheet": "spritesheets/dafeiyu_eat_rice.png",
-      "preview": "webp/dafeiyu_eat_rice.webp"
     },
     {
       "name": "attack_special",
       "count": 8,
       "fps": 12,
-      "loop": false,
+      "loop": true,
       "sheet": "spritesheets/dafeiyu_attack_special.png",
       "preview": "webp/dafeiyu_attack_special.webp"
     },
     {
-      "name": "run_start",
-      "count": 2,
-      "fps": 12,
-      "loop": false,
-      "sheet": "spritesheets/dafeiyu_run_start.png",
-      "preview": "webp/dafeiyu_run_start.webp"
+      "name": "dance_thunder",
+      "count": 79,
+      "fps": 10,
+      "loop": true,
+      "sheet": "spritesheets/dafeiyu_dance_thunder.png",
+      "preview": "webp/dafeiyu_dance_thunder.webp"
     },
     {
-      "name": "run_stop",
-      "count": 2,
-      "fps": 12,
-      "loop": false,
-      "sheet": "spritesheets/dafeiyu_run_stop.png",
-      "preview": "webp/dafeiyu_run_stop.webp"
+      "name": "sing",
+      "count": 67,
+      "fps": 8,
+      "loop": true,
+      "sheet": "spritesheets/dafeiyu_sing.png",
+      "preview": "webp/dafeiyu_sing.webp"
     }
   ],
   "notes": [
